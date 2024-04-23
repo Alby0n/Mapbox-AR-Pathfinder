@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mapbox-AR-Pathfinder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aby
+    family-names: Stalin
+    email: albyon.as@gmail.com
+    affiliation: Amrita School of Computing
+    orcid: 'https://orcid.org/0000-0002-1078-5046'
+  - given-names: Nizarudin
+    affiliation: Amrita School of Computing
+    family-names: Rizwan
+    email: rizwan.nizarudin@gmail.com
+  - given-names: Nadeem
+    family-names: Noor
+    email: nadeem100avis@gmail.com
+    affiliation: Amrita School of Computing
+repository-code: 'https://github.com/Alby0n/Mapbox-AR-Pathfinder'
+abstract: >-
+  Mapbox AR Pathfinder is an Android application that
+  leverages augmented reality (AR) technology and the Mapbox
+  SDK to provide an immersive navigation experience. Users
+  can visually follow a virtual path overlaid on the real
+  world, guiding them to their destination with ease.
+keywords:
+  - AR
+  - Mapbox
+  - ARCore
+  - Navigation
+  - Android
+license: MIT
