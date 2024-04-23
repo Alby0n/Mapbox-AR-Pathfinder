@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 6c83746b298a67d4bbbcc0b50936e768
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Aileron.L
+  - first:
+      1: 100002
+    second: Aileron.L 1
+  - first:
+      1: 100004
+    second: Aileron.L_end
+  - first:
+      1: 100006
+    second: Aileron.R
+  - first:
+      1: 100008
+    second: Aileron.R 1
+  - first:
+      1: 100010
+    second: Aileron.R_end
+  - first:
+      1: 100012
+    second: Cockpit
+  - first:
+      1: 100014
+    second: Elevator.L
+  - first:
+      1: 100016
+    second: Elevator.L 1
+  - first:
+      1: 100018
+    second: Elevator.L_end
+  - first:
+      1: 100020
+    second: Elevator.R
+  - first:
+      1: 100022
+    second: Elevator.R 1
+  - first:
+      1: 100024
+    second: Elevator.R_end
+  - first:
+      1: 100026
+    second: Engine
+  - first:
+      1: 100028
+    second: Guns
+  - first:
+      1: 100030
+    second: //RootNode
+  - first:
+      1: 100032
+    second: Jet
+  - first:
+      1: 100034
+    second: Plane
+  - first:
+      1: 100036
+    second: Plane 1
+  - first:
+      1: 100038
+    second: Rudder.L
+  - first:
+      1: 100040
+    second: Rudder.L 1
+  - first:
+      1: 100042
+    second: Rudder.L_end
+  - first:
+      1: 100044
+    second: Rudder.R
+  - first:
+      1: 100046
+    second: Rudder.R 1
+  - first:
+      1: 100048
+    second: Rudder.R_end
+  - first:
+      1: 100050
+    second: Widget
+  - first:
+      4: 400000
+    second: Aileron.L
+  - first:
+      4: 400002
+    second: Aileron.L 1
+  - first:
+      4: 400004
+    second: Aileron.L_end
+  - first:
+      4: 400006
+    second: Aileron.R
+  - first:
+      4: 400008
+    second: Aileron.R 1
+  - first:
+      4: 400010
+    second: Aileron.R_end
+  - first:
+      4: 400012
+    second: Cockpit
+  - first:
+      4: 400014
+    second: Elevator.L
+  - first:
+      4: 400016
+    second: Elevator.L 1
+  - first:
+      4: 400018
+    second: Elevator.L_end
+  - first:
+      4: 400020
+    second: Elevator.R
+  - first:
+      4: 400022
+    second: Elevator.R 1
+  - first:
+      4: 400024
+    second: Elevator.R_end
+  - first:
+      4: 400026
+    second: Engine
+  - first:
+      4: 400028
+    second: Guns
+  - first:
+      4: 400030
+    second: //RootNode
+  - first:
+      4: 400032
+    second: Jet
+  - first:
+      4: 400034
+    second: Plane
+  - first:
+      4: 400036
+    second: Plane 1
+  - first:
+      4: 400038
+    second: Rudder.L
+  - first:
+      4: 400040
+    second: Rudder.L 1
+  - first:
+      4: 400042
+    second: Rudder.L_end
+  - first:
+      4: 400044
+    second: Rudder.R
+  - first:
+      4: 400046
+    second: Rudder.R 1
+  - first:
+      4: 400048
+    second: Rudder.R_end
+  - first:
+      4: 400050
+    second: Widget
+  - first:
+      21: 2100000
+    second: Plane Nose
+  - first:
+      21: 2100002
+    second: Plane Bottom
+  - first:
+      21: 2100004
+    second: Plane Top
+  - first:
+      21: 2100006
+    second: Plane Rest
+  - first:
+      21: 2100008
+    second: Plane
+  - first:
+      21: 2100010
+    second: Dark
+  - first:
+      21: 2100012
+    second: Glass
+  - first:
+      23: 2300000
+    second: Aileron.L 1
+  - first:
+      23: 2300002
+    second: Aileron.R 1
+  - first:
+      23: 2300004
+    second: Cockpit
+  - first:
+      23: 2300006
+    second: Elevator.L 1
+  - first:
+      23: 2300008
+    second: Elevator.R 1
+  - first:
+      23: 2300010
+    second: Engine
+  - first:
+      23: 2300012
+    second: Guns
+  - first:
+      23: 2300014
+    second: Plane 1
+  - first:
+      23: 2300016
+    second: Rudder.L 1
+  - first:
+      23: 2300018
+    second: Rudder.R 1
+  - first:
+      23: 2300020
+    second: Widget
+  - first:
+      33: 3300000
+    second: Aileron.L 1
+  - first:
+      33: 3300002
+    second: Aileron.R 1
+  - first:
+      33: 3300004
+    second: Cockpit
+  - first:
+      33: 3300006
+    second: Elevator.L 1
+  - first:
+      33: 3300008
+    second: Elevator.R 1
+  - first:
+      33: 3300010
+    second: Engine
+  - first:
+      33: 3300012
+    second: Guns
+  - first:
+      33: 3300014
+    second: Plane 1
+  - first:
+      33: 3300016
+    second: Rudder.L 1
+  - first:
+      33: 3300018
+    second: Rudder.R 1
+  - first:
+      33: 3300020
+    second: Widget
+  - first:
+      43: 4300000
+    second: Widget
+  - first:
+      43: 4300002
+    second: Plane
+  - first:
+      43: 4300004
+    second: Guns
+  - first:
+      43: 4300006
+    second: Cockpit
+  - first:
+      43: 4300008
+    second: Engine
+  - first:
+      43: 4300010
+    second: Aileron.R
+  - first:
+      43: 4300012
+    second: Aileron.L
+  - first:
+      43: 4300014
+    second: Elevator.R
+  - first:
+      43: 4300016
+    second: Elevator.L
+  - first:
+      43: 4300018
+    second: Rudder.R
+  - first:
+      43: 4300020
+    second: Rudder.L
+  - first:
+      74: 7400000
+    second: Plane|Camera.001Action
+  - first:
+      74: 7400002
+    second: Plane|PlaneAction
+  - first:
+      74: 7400004
+    second: Elevator.R|Camera.001Action
+  - first:
+      74: 7400006
+    second: Elevator.R|PlaneAction
+  - first:
+      74: 7400008
+    second: Elevator.L|Camera.001Action
+  - first:
+      74: 7400010
+    second: Elevator.L|PlaneAction
+  - first:
+      74: 7400012
+    second: Rudder.R|Camera.001Action
+  - first:
+      74: 7400014
+    second: Rudder.R|PlaneAction
+  - first:
+      74: 7400016
+    second: Rudder.L|Camera.001Action
+  - first:
+      74: 7400018
+    second: Rudder.L|PlaneAction
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

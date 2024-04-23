@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: Brick
+    Prefab: {fileID: 2610591546250173276, guid: ea1041d6d459b1244a69e945813b0067,
+      type: 3}
+  - MeshId: Stone
+    Prefab: {fileID: 2610591546250173276, guid: 1b7ec642be620524eb98454c5f7d6220,
+      type: 3}
+  - MeshId: Gold
+    Prefab: {fileID: 2610591546250173276, guid: edc88edd49b83984dbbc688e401d189a,
+      type: 3}

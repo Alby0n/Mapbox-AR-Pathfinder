@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: Cube
+    Prefab: {fileID: 2255247146297289413, guid: 248257bbf3470d245942003997bc15a8,
+      type: 3}
+  - MeshId: Cylinder
+    Prefab: {fileID: 1376535175131390911, guid: 86b5de28eaa2f184895804c75f72fcb8,
+      type: 3}
+  - MeshId: Logo
+    Prefab: {fileID: 2198125378339800612, guid: 987dd04d41b1fcf4a9ed5ade4d053c88,
+      type: 3}

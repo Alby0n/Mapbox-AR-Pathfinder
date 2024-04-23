@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 6e0b48ec7f5348c42af7efe4859098eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ArmLower.L
+    100004: ArmLower.L_end
+    100006: ArmLower.R
+    100008: ArmLower.R_end
+    100010: ArmUpper.L
+    100012: ArmUpper.R
+    100014: BackLower
+    100016: BackUpper
+    100018: Fingers.L
+    100020: Fingers.L_end
+    100022: Fingers.R
+    100024: Fingers.R_end
+    100026: Foot.L
+    100028: Foot.R
+    100030: Hand.L
+    100032: Hand.R
+    100034: Head
+    100036: Head_end
+    100038: Hemi
+    100040: Hip
+    100042: IK.Ellbow.L
+    100044: IK.Ellbow.L_end
+    100046: IK.Ellbow.R
+    100048: IK.Ellbow.R_end
+    100050: IK.Heel.L
+    100052: IK.Heel.L_end
+    100054: IK.Heel.R
+    100056: IK.Heel.R_end
+    100058: IK.Knee.L
+    100060: IK.Knee.L_end
+    100062: IK.Knee.R
+    100064: IK.Knee.R_end
+    100066: LegLower.L
+    100068: LegLower.L_end
+    100070: LegLower.R
+    100072: LegLower.R_end
+    100074: LegUpper.L
+    100076: LegUpper.R
+    100078: Root
+    100080: Shoulder.L
+    100082: Shoulder.R
+    100084: Zombie
+    100086: //RootNode
+    400000: Armature
+    400002: ArmLower.L
+    400004: ArmLower.L_end
+    400006: ArmLower.R
+    400008: ArmLower.R_end
+    400010: ArmUpper.L
+    400012: ArmUpper.R
+    400014: BackLower
+    400016: BackUpper
+    400018: Fingers.L
+    400020: Fingers.L_end
+    400022: Fingers.R
+    400024: Fingers.R_end
+    400026: Foot.L
+    400028: Foot.R
+    400030: Hand.L
+    400032: Hand.R
+    400034: Head
+    400036: Head_end
+    400038: Hemi
+    400040: Hip
+    400042: IK.Ellbow.L
+    400044: IK.Ellbow.L_end
+    400046: IK.Ellbow.R
+    400048: IK.Ellbow.R_end
+    400050: IK.Heel.L
+    400052: IK.Heel.L_end
+    400054: IK.Heel.R
+    400056: IK.Heel.R_end
+    400058: IK.Knee.L
+    400060: IK.Knee.L_end
+    400062: IK.Knee.R
+    400064: IK.Knee.R_end
+    400066: LegLower.L
+    400068: LegLower.L_end
+    400070: LegLower.R
+    400072: LegLower.R_end
+    400074: LegUpper.L
+    400076: LegUpper.R
+    400078: Root
+    400080: Shoulder.L
+    400082: Shoulder.R
+    400084: //RootNode
+    400086: Zombie
+    2100000: Zombie
+    4300000: Zombie
+    7400000: Armature|Walk
+    9500000: //RootNode
+    10800000: Hemi
+    13700000: Zombie
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

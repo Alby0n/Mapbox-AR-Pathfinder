@@ -1,0 +1,5 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. ShadowDrawer.shader (https://github.com/keijiro/ShadowDrawer/blob/master/Assets/ShadowDrawer.shader)
+[Licensed under Public Domain]
+[By @keijiro - https://github.com/keijiro)]

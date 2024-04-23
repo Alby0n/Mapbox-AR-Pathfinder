@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
+  m_Name: Zombie House Test
+  m_EditorClassIdentifier: 
+  locations:
+  - latitude: -24.499409
+    longitude: -47.868025
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  - latitude: -24.499489
+    longitude: -47.868029
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  - latitude: -24.499543
+    longitude: -47.868049
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  - latitude: -24.499554
+    longitude: -47.868103
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  - latitude: -24.499565
+    longitude: -47.868167
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  - latitude: -24.499576
+    longitude: -47.868244
+    altitude: -1.7
+    ignoreAltitude: 0
+    label: 
+  alpha: 0.5
+  sceneViewScale: 1
