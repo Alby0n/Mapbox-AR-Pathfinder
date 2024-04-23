@@ -21,7 +21,8 @@ Mapbox AR Pathfinder is an Android application that leverages augmented reality 
 
 
 ## File Structure
-![Screenshot 2024-04-22 172042](https://github.com/Alby0n/Mapbox-AR-Pathfinder/assets/73681462/fcd0fcdc-2f5d-4016-9714-7b646ae30ea0)
+![Screenshot 2024-04-22 172042](https://github.com/Alby0n/Mapbox-AR-Pathfinder/assets/73681462/9123d7a0-f98e-42a4-b11c-45edb2f65f32)
+
 
 
 
